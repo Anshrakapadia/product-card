@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #21cb65;
+    background-color: #0cdf61;
 }
 .sub{
     text-transform: capitalize;
@@ -118,7 +118,10 @@ body {
     padding: 10px 2px;
 
 }
-
+.green{
+    border: 1px solid #c7c4c4;
+    box-shadow: 3px 3px 3px rgba(35, 28, 28, 0.363); 
+}
 .benifits p {
     color: #c7c4c4;
     text-transform: uppercase;
